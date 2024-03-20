@@ -11,5 +11,3 @@ def respond():
         print(m) 
     
     return jsonify(m)
-
-app.run()
