@@ -12,4 +12,4 @@ def respond():
     
     return jsonify(m)
 
-app.run(port =3000)
+app.run()
